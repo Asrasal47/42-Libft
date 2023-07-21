@@ -18,7 +18,7 @@ And many more.
 
 ## Installation
 ```sh
-git clone https://github.com/rkedida/Libft.git
+git clone https://github.com/Asrasal47/42-Libft.git
 cd Libft
 make
 ```
