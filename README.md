@@ -21,8 +21,7 @@ And many more.
 git clone https://github.com/Asrasal47/42-Libft.git
 ```
 ```sh
-cd 42-Libft
-make
+cd 42-Libft && make
 ```
 This will compile the library and generate a libft.a file.
 
