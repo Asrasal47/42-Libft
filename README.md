@@ -1,4 +1,4 @@
-# Libft
+# 42-Libft
 
 ## Introduction
 Libft is a project that aims to reimplement some standard C library functions, as well as some additional utility functions that can be useful for later projects. This project is a stepping stone in understanding the basics of C programming, memory management, and algorithm implementation.
